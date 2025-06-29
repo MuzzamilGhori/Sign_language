@@ -1,6 +1,6 @@
 # import cv2
 # import mediapipe as mp
-import numpy as np
+# import numpy as np
 import pickle
 import os
 import random
